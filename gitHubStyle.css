@@ -27,3 +27,18 @@
     padding: 10px;
     line-height: 1.5;
   }
+
+  .links {
+    text-align: center;
+  }
+
+  .roll20 {
+    background-color: #f297f2;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    border: solid;
+  }
